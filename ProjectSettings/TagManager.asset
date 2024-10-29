@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - destroy
+  - Coin
+  - CoinD
+  - PlayerD
+  - pipeSmoke
+  - EndPointLeft
+  - EndPointRight
+  - CoinDR
+  - CoinDL
+  - BombDL
+  - BombDR
+  - Bomb
+  - FinalBoom
+  - Present
+  - PresentDL
+  - PresentDR
+  - explodeR
+  - explodeL
+  - explodeC
+  - Pipe
+  - BombC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GameObject
+  - Water
+  - UI
+  - background
+  - fallOBJ
+  - pipe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2945040015
+    locked: 0
+  - name: foreground
+    uniqueID: 2940426051
+    locked: 0
